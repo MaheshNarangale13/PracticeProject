@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-10T11:34:14 IST" name="Test Suite" finished-at="2024-12-10T11:34:29 IST" duration-ms="14350">
+    <groups>
+    </groups>
+    <test started-at="2024-12-10T11:34:14 IST" name="Sample Test" finished-at="2024-12-10T11:34:29 IST" duration-ms="14350">
+      <class name="DummyPackage.TestflipkartWrongNumbPopUpMassage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DummyPackage.TestflipkartWrongNumbPopUpMassage@4a94ee4]" started-at="2024-12-10T11:34:14 IST" name="setUp" finished-at="2024-12-10T11:34:18 IST" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithWrongNumber()[pri:0, instance:DummyPackage.TestflipkartWrongNumbPopUpMassage@4a94ee4]" started-at="2024-12-10T11:34:18 IST" name="testLoginWithWrongNumber" finished-at="2024-12-10T11:34:28 IST" duration-ms="10375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithWrongNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DummyPackage.TestflipkartWrongNumbPopUpMassage@4a94ee4]" started-at="2024-12-10T11:34:28 IST" name="tearDown" finished-at="2024-12-10T11:34:29 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DummyPackage.TestflipkartWrongNumbPopUpMassage -->
+    </test> <!-- Sample Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>

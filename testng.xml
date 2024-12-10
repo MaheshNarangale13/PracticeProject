@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "src/test/resources/testng-1.0.dtd">
+<suite name="Test Suite" parallel="false">
+    <test name="Sample Test">
+    
+        <classes>
+            <class name="DummyPackage.TestflipkartWrongNumbPopUpMassage"/>
+        </classes>
+    </test>
+</suite>
